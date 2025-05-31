@@ -20,7 +20,7 @@ A simple and interactive web-based Tic-Tac-Toe game built using HTML, CSS, and J
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/Lalithya30/Tic-Tac-Toe.git
    cd tic-tac-toe
    ```
 
